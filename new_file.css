@@ -1,0 +1,46 @@
+/* CSS Document */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F5DEB3; /* 金色背景 */
+    color: #FF7F00; /* 橙色文字 */
+}
+
+h1, h2, h3 {
+    color: #FF4500; /* 深橙色标题 */
+}
+
+a {
+    color: #FF7F00; /* 橙色链接 */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+header {
+    background-color: #FFA500; /* 橙色头部背景 */
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #FFD700; /* 亮金色导航栏背景 */
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #FFA500; /* 橙色底部背景 */
+    padding: 10px;
+    text-align: center;
+}
